@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Olivers HTML Page</title>
+</head>
+<body>
+
+<h1>My Goals before 2025</h1>
+<ol>
+	<li> Go to Homecoming! 
+    <li> Finish the Robot Arm and Start a new project
+    <li> Finish the semester with good grades 
+    <li> Pass 1000 rating on <a href="Chess.com">Chess.com</a>
+    <li> Work out consistenly and meditate in the mornings
+    <img src="https://banner2.cleanpng.com/20230930/zes/transparent-happy-new-year-1711067886860.webp" alt="2025" width="400" 
+     height="420" />
+<ol>
+
+</body>
+</html>
+
